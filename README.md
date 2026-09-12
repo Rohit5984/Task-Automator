@@ -12,7 +12,7 @@ A lightweight Windows automation tool designed to simplify repetitive tasks and 
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="assets/Task.jpg" alt="Task Automator Screenshot" width="300">
+  <img src="assets/Task.jpg" alt="Task Automator Screenshot" width="250">
 </p>
 
 # ⬇️ Download
