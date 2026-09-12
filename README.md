@@ -23,7 +23,7 @@ Download the latest version from the **[Releases](https://github.com/Rohit5984/T
 ## 💡 Have an Idea?
 
 Have a feature request or found a bug?  
-Feel free to share your ideas and feedback on LinkedIn **https://www.linkedin.com/posts/rohit-mandal-6336923b1_windows-automation-developertools-activity-7504559207984312320-7FWF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGSoggcBGANYp5m2RW1ECnt5RjXPPFfpXSM** — I'd love to hear from you and will consider adding useful features and fixing reported issues.
+Feel free to share your ideas and feedback on [LinkedIn](https://lnkd.in/p/gJVqHE3H) — I'd love to hear from you and will consider adding useful features and fixing reported issues.
 
 ⭐ If you find Task Automator useful, please consider starring the repository!
 
