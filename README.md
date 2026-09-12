@@ -17,7 +17,7 @@ A lightweight Windows automation tool designed to simplify repetitive tasks and 
 
 # ⬇️ Download
 
-Download the latest version from the **[Releases](https://github.com/Rohit5984/Task Automator/releases/tag/1.0.0)** page.
+Download the latest version from the **[Releases](https://github.com/Rohit5984/Task-Automator/releases/tag/1.0.0)** page.
 ---
 
 ## 💡 Have an Idea?
